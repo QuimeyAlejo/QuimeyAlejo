@@ -15,8 +15,8 @@ I have experience working with **JavaScript, Python, Flask, SQL, Node.js, and Re
 
 ## 🚀 Tecnologías / Technologies  
 ### 🔹 Lenguajes y herramientas / Languages & Tools  
-- **Lenguajes / Languages:** C, JavaScript, Python  
-- **Backend:** Node.js, Express, Flask, PostgreSQL, MySQL, MongoDB, Mongoose  
+- **Lenguajes / Languages:** C, JavaScript, Python , C#
+- **Backend:**  .NET 8, Node.js, Express, Flask, PostgreSQL, MySQL, MongoDB, Mongoose , SQLSERVER 
 - **Frontend:** React, Redux, HTML, CSS, Bootstrap  
 - **Metodologías / Methodologies:** Scrum  
 
