@@ -6,8 +6,8 @@
 
 ## 💻 Sobre mí / About Me  
 Soy un apasionado por la informática y el desarrollo web, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.  
-Actualmente, soy **estudiante de la Tecnicatura Universitaria en Programación en la UTN de Rosario**, donde sigo fortaleciendo mis conocimientos en desarrollo de software.  
-Tengo experiencia trabajando con **JavaScript, Python, Flask, SQL, Node.js y React**, y aplico metodologías ágiles como **Scrum** en mis proyectos.  
+Actualmente, soy **Tecnico Universitario en Programación en la UTN de Rosario**, donde sigo fortaleciendo mis conocimientos en desarrollo de software.  
+Tengo experiencia trabajando con **C#, NET 8/10, ASP NET CORE, TypeScript, JavaScript, Python, Flask, SQL, Node.js y React**, y aplico metodologías ágiles como **Scrum** en mis proyectos.  
 
 I'm passionate about technology and web development, always eager to learn new technologies and improve my skills.  
 Currently, I'm a **student of the University Technician in Programming at UTN Rosario**, where I continue to strengthen my software development knowledge.  
@@ -15,10 +15,11 @@ I have experience working with **JavaScript, Python, Flask, SQL, Node.js, and Re
 
 ## 🚀 Tecnologías / Technologies  
 ### 🔹 Lenguajes y herramientas / Languages & Tools  
-- **Lenguajes / Languages:** C, JavaScript, Python , C#
-- **Backend:**  .NET 8, Node.js, Express, Flask, PostgreSQL, MySQL, MongoDB, Mongoose , SQLSERVER 
-- **Frontend:** React, Redux, HTML, CSS, Bootstrap  
-- **Metodologías / Methodologies:** Scrum  
+- **Lenguajes / Languages:** C#, JavaScript, Python ,TypeScript, C
+- **Backend:**  .NET 8, Node.js, Express, Flask, EF Core, Sequelize
+- **DataBase:** SQL Server, PostgreSQL, SQL, MongoDB
+- **Frontend:** React, Redux, Zustand, API Context, HTML, CSS, Bootstrap  
+- **Metodologías / Methodologies:** Scrum, Kanban  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
